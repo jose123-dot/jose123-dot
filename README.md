@@ -91,10 +91,11 @@ const jose = {
 
 | # | Proyecto | Descripción | Stack |
 |---|----------|-------------|-------|
-| 🎓 | **Portal UCATEBA** | Portal institucional universitario — diseño custom, layouts adaptativos, overrides PHP y sistema modular de componentes | `Joomla 5` `PHP` `Bootstrap 5` `CSS` `JS` |
-| 🤖 | **AI Integration Apps** | Aplicaciones con integración de LLMs usando RAD — generación de contenido, chatbots y automatización inteligente | `Node.js` `NestJS` `OpenAI` `Claude` |
-| 🛠️ | **Próximamente...** | Más proyectos en camino | `React` `NestJS` `TypeScript` `Docker` |
-
+| 🎓 | Gema | Sistema Web de Gestión Académica de la Escuela Jaime Mota, Desarrollo ERP, layouts adaptativos, overrides TypeScript y sistema con Arquitectura DDD | NestJS TypeScript TailwindCSS CSS JS |
+| 🤖 | AI Integration Apps | Aplicaciones con integración de LLMs usando RAD — generación de contenido, chatbots y automatización inteligente | Node.js NestJS OpenAI Claude |
+| ⚖️ | Chatbot Jurídico | Asistente conversacional especializado para el sector legal, diseñado para optimizar la consulta, análisis y redacción de documentos jurídicos mediante búsqueda vectorial | Node.js TypeScript pgvector LLMs |
+| 💰 | Sistema de Préstamos (San) | Plataforma financiera para la gestión de préstamos y fondos rotativos (San). Construida bajo Arquitectura Hexagonal para garantizar alta mantenibilidad y despliegue contenerizado. | Angular NestJS TypeScript MySQL Docker |
+| 🛠️ | Próximamente... | Más proyectos en camino | React NestJS TypeScript Docker |
 ---
 
 ## 🏗️ Infraestructura y Flujo de Trabajo
