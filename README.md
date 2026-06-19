@@ -3,8 +3,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0d2a6e&height=200&section=header&text=José%20María%20Suero%20Cuevas&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Dominican%20Republic%20🇩🇴&descAlignY=58&descSize=16" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d2a6e?style=for-the-badge&logo=firefox&logoColor=white)](https://#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/authwall?trk=bf&trkInfo=AQGlj6VZL6fl3QAAAZ7hduEIjzuLpCLlQu9RGb8GlWzaDjb-CMWIEsbTG69Yl1vvNggMEnCK3d02JO8lPbii9WyvnNp__xQxZjSFdIECeKBqxFBfqL1T1sCjPqrBUrlG2eHyq50=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fing-jose-maria-suero-cuevas-b5740739b%3Futm_source%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dmember_android)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](josemariasuerocuevas@email.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jose123-dot)
 
 <br/>
